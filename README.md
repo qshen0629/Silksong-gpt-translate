@@ -1,7 +1,7 @@
 ### 项目简介
 
 用于从 Unity 资源文件中导出/回填 `TextAsset` 文本，以及对文本进行 AES-ECB(Base64) 加/解密的实用脚本。基于 `UnityPy` 与 `PyCryptodome`。
-
+由于本人汉化实力真的不行,且丝之歌文本体量太大故放弃更新
 ### 目录结构（关键）
 
 - `assets/resources.assets`: 原始 Unity 资源文件
